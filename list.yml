@@ -1,0 +1,136 @@
+files:
+  - url: ""
+    time: 1678087155204.yml
+    name: config.yaml
+    selected: []
+    mode: global
+  - time: 1678087170730.yml
+    name: clash.yaml
+    url: https://cdn.jsdelivr.net/gh/openrunner/clash-freenode@main/clash.yaml
+    selected:
+      - name: GLOBAL
+        now: 🐟 漏网之鱼
+      - name: 🚀 节点选择
+        now: ♻️ 自动选择
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🎯 全球直连
+    interval: 0
+    subInfo: {}
+    homeWeb: ""
+    mode: global
+  - time: 1678181496058.yml
+    name: "%E7%8C%AB%E7%86%8A%E7%BD%91%E7%BB%9C"
+    url: http://hailitum.giountal.top/sub?target=clash&udp=true&filename=猫熊网络&interval=86400&append_info&url=https://ierboryt.spphhnhg.top/link/Dlknc5y0OQSDtS3Q?clash=1&extend=1
+    selected:
+      - name: GLOBAL
+        now: 🇭🇰 IPLC-V309-1.5x-广港-NF&Disney*
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 专线
+        now: 🇭🇰 IPLC-V301-1.5x-广港-NF&Disney*
+      - name: 🅱️️ 哔哩哔哩港澳台
+        now: 🎯 全球直连
+      - name: 🇭🇰 香港
+        now: 🇭🇰 普通-V241-1x-香港
+      - name: 🇯🇵 日本
+        now: 🇯🇵 IPLC-V315-1x-广日-NF&Abema*（ChatGPT动态解锁测试）
+      - name: 🇸🇬 新加坡
+        now: 🇸🇬 普通-V219-1x-新加坡-NF&Disney+*
+      - name: 🇹🇼 台湾
+        now: 🇹🇼 IPLC-V313-1.5x-广台-NF&Disney&动画疯*
+      - name: 🇺🇸 美国
+        now: 🇺🇲 CN2-V215-2x-美国-NF
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🍎 苹果服务
+        now: 🎯 全球直连
+      - name: 🎥 NETFLIX
+        now: 🚀 手动切换
+      - name: 🎧 Spotify
+        now: 🚀 手动切换
+      - name: 🎬 猫熊Emby
+        now: 🚀 手动切换
+      - name: 🎮️ 游戏
+        now: 🎯 全球直连
+      - name: 🎮👑👑 HBO MAX
+        now: 🚀 手动切换
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🎶 TikTok
+        now: 🚀 手动切换
+      - name: 🐟 漏网之鱼
+        now: 🎯 全球直连
+      - name: 💿 AbemaTV
+        now: 🇯🇵 IPLC-V315-1x-广日-NF&Abema*（ChatGPT动态解锁测试）
+      - name: 📢 谷歌FCM
+        now: 🚀 手动切换
+      - name: 📲 电报信息
+        now: 🚀 手动切换
+      - name: 📷 Ins&FB&Twitter
+        now: 🚀 手动切换
+      - name: 📹 YouTube
+        now: 🚀 手动切换
+      - name: 📺 巴哈姆特动画疯
+        now: 🇹🇼 IPLC-V310-1.5x-广台-NF&Disney&动画疯*
+      - name: 🔞 Pornhub
+        now: 🚀 手动切换
+      - name: 🚀 手动切换
+        now: 🇭🇰 香港
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🤖 ChatGPT（测试中）
+        now: 🚀 手动切换
+      - name: 🦄 DisneyPlus
+        now: 🇭🇰 香港
+    interval: 24
+    subInfo:
+      upload: 68309588952
+      download: 241793595230
+      total: 323703799808
+      expire: 1685250740
+    homeWeb: ""
+    mode: rule
+  - time: 1682584407072.yml
+    name: xjn47S9dGZYr4IV9
+    url: https://www.xiaohouzi.store/link/xjn47S9dGZYr4IV9
+    selected: []
+    interval: 0
+    subInfo: {}
+    homeWeb: ""
+  - time: 1682584490476.yml
+    name: IPLC.VIP.yml
+    url: https://mysub.cc/subscribe/18358/hjKIAFbFP4/clash/
+    selected:
+      - name: GLOBAL
+        now: 香港01
+      - name: 代理
+        now: TW01
+      - name: Telegram
+        now: 香港11
+      - name: YouTube
+        now: 代理
+      - name: Netflix
+        now: 代理
+      - name: BiliBili
+        now: DIRECT
+      - name: 规则外路由选择
+        now: 代理
+    interval: 0
+    subInfo: {}
+    homeWeb: ""
+    mode: global
+index: -1
